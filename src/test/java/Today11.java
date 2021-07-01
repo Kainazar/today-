@@ -5,6 +5,8 @@ public class Today11 {
         System.out.println("4444");
         System.out.println("55555");
         System.out.println("6666");
+        System.out.println("77777");
+
 
     }
 }
